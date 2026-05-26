@@ -24,7 +24,7 @@ export function Contact() {
     toast.info("Starting Resume Download...")
     const link = document.createElement('a');
     link.href = '/resume.pdf';
-    link.download = 'Aayush_Rathod_Resume.pdf';
+    link.download = 'Aayush_Rathod_Resume_Toronto_2026.pdf';
     link.click();
   }
 

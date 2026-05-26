@@ -20,7 +20,7 @@ export function About() {
             </h2>
             <div className="space-y-6 text-xl text-slate-900 dark:text-slate-300 font-bold leading-relaxed">
               <p>
-                With over 7 years of specialized experience in the banking and financial services sector, 
+                With over 8 years of specialized experience in the banking and financial services sector, 
                 I have dedicated my career to building, optimizing, and supporting mission-critical backend systems. 
               </p>
               <p>

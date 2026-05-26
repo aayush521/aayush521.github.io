@@ -6,7 +6,7 @@ import { ArrowRight, Download, Linkedin, Github, Mail, ShieldCheck } from "lucid
 import { toast } from "sonner"
 
 const metrics = [
-  { label: "Experience", value: "7+ Years" },
+  { label: "Experience", value: "8+ Years" },
   { label: "Companies", value: "4" },
   { label: "Banking Projects", value: "7+" },
   { label: "Performance Improv.", value: "40%" },
@@ -17,7 +17,7 @@ export function Hero() {
     toast.info("Starting Resume Download...")
     const link = document.createElement('a');
     link.href = '/resume.pdf';
-    link.download = 'Aayush_Rathod_Resume.pdf';
+    link.download = 'Aayush_Rathod_Resume_Toronto_2026.pdf';
     link.click();
   }
 
@@ -61,7 +61,7 @@ export function Hero() {
             <span className="text-electric">Production Support Specialist</span>
           </h2>
           <p className="text-lg text-slate-900 dark:text-slate-300 mb-8 max-w-xl leading-relaxed font-bold">
-            7+ Years Building and Supporting Mission-Critical Banking & Financial Systems. 
+            8+ Years Building and Supporting Mission-Critical Banking & Financial Systems. 
             Delivering enterprise-grade backend systems and 24x7 production support for AML, 
             Anti-Fraud, Core Banking, and IFRS 9 platforms.
           </p>

@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
   title: "Aayush Rathod | Senior Java Backend Developer",
-  description: "Senior Java Backend Developer & Production Support Specialist with 7+ years of experience in Banking and Financial Systems.",
+  description: "Senior Java Backend Developer & Production Support Specialist with 8+ years of experience in Banking and Financial Systems.",
   keywords: ["Senior Java Backend Developer Toronto", "Production Support Specialist Canada", "Oracle PL/SQL Developer Toronto", "Banking Software Engineer Canada", "ETL Developer Toronto"],
 };
 

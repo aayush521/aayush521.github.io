@@ -6,7 +6,7 @@ import { Briefcase, Calendar, MapPin } from "lucide-react"
 
 const experiences = [
   {
-    role: "Backend Developer",
+    role: "Senior Backend Engineer (Freelance)",
     company: "PrecastXchange",
     period: "Nov 2024 – Present",
     location: "Toronto, Canada",
