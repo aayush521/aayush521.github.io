@@ -37,7 +37,8 @@ const domains = [
   },
   {
     title: "Regulatory Compliance",
-    description: "Delivering automated reporting systems that satisfy stringent central bank requirements across multiple jurisdictions.",
+    description:
+      "Delivering automated reporting aligned to FATF, OFAC, UN, and EU standards — and analogous to Canadian OSFI / FINTRAC / PCMLTFA frameworks across multiple jurisdictions.",
     icon: ClipboardCheck,
     color: "text-cyan-500",
   },

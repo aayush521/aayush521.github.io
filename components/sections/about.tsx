@@ -28,9 +28,9 @@ export function About() {
                 including regions like Oman, Saudi Arabia, Dubai, and the Philippines. 
               </p>
               <p>
-                Currently based in Toronto with an open work permit, I am looking to leverage my deep domain 
-                expertise in IFRS 9, Regulatory Compliance, and High-Performance ETL to drive value for 
-                leading Canadian financial institutions.
+                Currently based in Toronto with an Open Work Permit, I bring deep domain expertise in
+                AML/ATF, Anti-Fraud, IFRS 9, and high-performance ETL — built under regulatory frameworks
+                aligned to FATF, OFAC, UN, EU and analogous to Canadian OSFI / FINTRAC / PCMLTFA standards.
               </p>
             </div>
           </motion.div>

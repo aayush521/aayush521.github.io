@@ -2,7 +2,7 @@
 
 import React from "react"
 import { motion } from "framer-motion"
-import { Target, Users, Zap, Search, Globe, FileCheck } from "lucide-react"
+import { Target, Users, Zap, Search, Globe, FileCheck, Repeat } from "lucide-react"
 
 const reasons = [
   {
@@ -11,9 +11,10 @@ const reasons = [
     description: "Years of experience in AML, Anti-Fraud, and Core Banking solutions.",
   },
   {
-    icon: Users,
-    title: "Full SDLC Ownership",
-    description: "From requirements gathering to production support and stabilization.",
+    icon: Repeat,
+    title: "Build + Operate",
+    description:
+      "I design and ship the systems and own them once they're live — end-to-end accountability from sprint to 24x7.",
   },
   {
     icon: Zap,

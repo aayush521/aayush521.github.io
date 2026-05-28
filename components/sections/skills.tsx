@@ -6,7 +6,7 @@ import { motion } from "framer-motion"
 const skillCategories = [
   {
     title: "Backend Development",
-    skills: ["Java", "Spring Boot", "Spring WebFlux", "REST APIs", "Microservices", "Kafka", "Multithreading", "Spring Security"],
+    skills: ["Java", "Spring Boot", "Spring MVC", "Spring WebFlux", "Spring Data JPA", "Spring Security", "REST APIs", "SOAP", "Microservices", "Apache Kafka", "Multithreading"],
     color: "bg-electric",
   },
   {
@@ -16,13 +16,23 @@ const skillCategories = [
   },
   {
     title: "Production Support",
-    skills: ["L2/L3 Support", "Incident Management", "Root Cause Analysis", "ServiceNow", "JIRA", "Dynatrace", "Autosys"],
+    skills: ["L2/L3 Support", "Incident Management", "Root Cause Analysis", "ITIL-aligned", "CAB", "ServiceNow", "JIRA", "Confluence", "Splunk", "Dynatrace", "PagerDuty", "Autosys"],
     color: "bg-indigo-600",
   },
   {
     title: "DevOps & Cloud",
-    skills: ["AWS (Certified)", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Git", "Unix/Linux Shell Scripting"],
+    skills: ["AWS (Certified)", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "TeamCity", "Git", "Unix/Linux Shell Scripting"],
     color: "bg-emerald-600",
+  },
+  {
+    title: "AI-Augmented Development",
+    skills: ["GitHub Copilot", "Claude", "Codex", "Prompt Engineering", "AI Code Review", "Test Generation"],
+    color: "bg-fuchsia-600",
+  },
+  {
+    title: "Banking Domain",
+    skills: ["AML/ATF", "Anti-Fraud (AFS)", "Core Banking (CBS)", "IFRS 9 / ECL", "KYC", "Sanctions Screening (UN/OFAC/EU/HMT)", "SWIFT", "NEFT", "RTGS"],
+    color: "bg-rose-600",
   },
 ]
 

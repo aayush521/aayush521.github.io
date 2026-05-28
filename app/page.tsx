@@ -5,6 +5,8 @@ import { Skills } from "@/components/sections/skills"
 import { DomainExpertise } from "@/components/sections/expertise"
 import { Achievements } from "@/components/sections/achievements"
 import { Experience } from "@/components/sections/experience"
+import { Projects } from "@/components/sections/projects"
+import { Certifications } from "@/components/sections/certifications"
 import { WhyHireMe } from "@/components/sections/why-hire-me"
 import { Contact } from "@/components/sections/contact"
 
@@ -18,6 +20,8 @@ export default function Home() {
       <DomainExpertise />
       <Achievements />
       <Experience />
+      <Projects />
+      <Certifications />
       <WhyHireMe />
       <Contact />
       
